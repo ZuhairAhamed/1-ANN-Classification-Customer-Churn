@@ -49,3 +49,6 @@ The trained model is saved in .keras format and is automatically loaded by the S
 	•	TensorFlow / Keras – Model building, training, and saving
 	•	Pandas / NumPy / Scikit-learn – Data preprocessing and transformation
 	•	Streamlit – Frontend UI for model interaction
+
+
+APP URL : https://1-ann-classification-customer-churn.streamlit.app/
